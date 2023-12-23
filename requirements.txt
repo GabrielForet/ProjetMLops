@@ -1,0 +1,6 @@
+Packages used & versions :
+pandas==v2.1.4
+numpy==v1.26.0
+seaborn==v0.13.0
+matplotlib.pyplot==v3.8.2
+sklearn==v1.3.2
